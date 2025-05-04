@@ -1,4 +1,4 @@
-# Mobile-Web-App-Development
+# Mobile Web App Development
 
 This project involved developing **mobile web applications** using **Android Studio**, with a focus on integrating back-end logic through **Java**. The process emphasized hands-on development, debugging, and reflection on challenges encountered in the app development lifecycle.
 
