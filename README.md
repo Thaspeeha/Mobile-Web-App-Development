@@ -27,3 +27,7 @@ This project involved developing **mobile web applications** using **Android Stu
 - 🧠 Functional Java-based logic for data handling
 - 🚀 Optimized for mobile performance and responsive layouts
 - 🔍 In-app testing and emulator deployment through Android Studio
+
+  ## 📝 License
+  
+This project was developed for educational purposes and is not intended for commercial deployment without further development.
