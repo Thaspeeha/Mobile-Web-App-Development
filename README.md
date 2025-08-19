@@ -17,7 +17,7 @@ This project involved developing **mobile web applications** using **Android Stu
 - **Frontend:** XML (for UI layouts)
 - **Backend:** Java
 - **IDE:** Android Studio
-- **Platform:** Android SDK, Git & GitHub for version control
+- **Platform:** Android SDK
 
 
 
