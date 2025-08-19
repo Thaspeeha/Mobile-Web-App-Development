@@ -2,6 +2,10 @@
 
 This project involved developing **mobile web applications** using **Android Studio**, with a focus on integrating back-end logic through **Java**. The process emphasized hands-on development, debugging, and reflection on challenges encountered in the app development lifecycle.
 
+Watch my video (Click the image below)
+
+[![Watch the video](https://img.youtube.com/vi/PtYiGLvfhOc/0.jpg)](https://www.youtube.com/watch?v=PtYiGLvfhOc)
+
 
 
 ## 🧠 Project Overview
